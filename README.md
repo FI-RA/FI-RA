@@ -7,8 +7,8 @@
 ## 🚀 Sobre mí
 Considero la persistencia y permanencia los valores que destacan mi trabajo. Actualmente, busco oportunidades laborales como Desarrollador Full Stack.
 
-* 🔭 Actualmente trabajando en: **Proyectos personales de aprendizaje.**
-* 🌱 Aprendiendo: **Nuevas arquitecturas y despliegue en la nube.**
+* 🔭 Actualmente trabajando en: **Proyectos personales de aprendizaje**
+* 🌱 Aprendiendo: **Despliegue de aplicaciónes en la nube, IA y lenguajes como Java y Go.**
 
 ---
 
